@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387451764091",
+    "project_id": "digest-firebase",
+    "storage_bucket": "digest-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387451764091:android:78671f1ab69e50a6ea91de",
+        "android_client_info": {
+          "package_name": "com.example.digest_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387451764091-m76j4ogg1ed1n6rne8q9r6t6715b8jau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiudc1WN_H_wqQRMsvn3NqjAxnHjAjjoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387451764091-m76j4ogg1ed1n6rne8q9r6t6715b8jau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
